@@ -33,6 +33,13 @@ https://freshwavecleaning.au
 
 **Marketing:** Google Ads
 
+## ⭐ Highlights
+
+- Production website used by a real business
+- Supports active Google Ads campaigns
+- Interactive pricing calculator
+- SEO-optimised for lead generation
+- Fully responsive across desktop and mobile devices
 ---
 
 # Overview
@@ -181,18 +188,6 @@ The project involved several real-world engineering challenges, including:
 The website is currently used as the company's primary online platform.
 
 It supports active Google Ads campaigns, provides customers with instant pricing estimates, and generates enquiries through the integrated contact form.
-
----
-
-# Future Improvements
-
-Planned future enhancements include:
-
-- Customer portal
-- Online payments
-- Appointment scheduling
-- CRM integration
-- Additional business automation
 
 ---
 
